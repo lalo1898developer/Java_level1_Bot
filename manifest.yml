@@ -1,0 +1,5 @@
+---
+applications:
+ - name: javalevel1bot.app
+   random-route: true
+   memory: 64M
