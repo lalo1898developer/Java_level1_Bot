@@ -57,7 +57,7 @@ def echo_all(message):
     # Lecciones Java
     if text == "Java":
         filenames_list = java.get_filenames()
-        filenames_list.insert(0, 'Estos son los temas disponibles para aprender, escribe el que quieras para conocer mas sobre Java:')
+        filenames_list.insert(0, 'Estos son los temas disponibles para aprender, escribe el que quieras para conocer mas sobre Java:\n')
         filenames_string = '\n'.join(filenames_list)
         bot.reply_to(message, filenames_string)
 
