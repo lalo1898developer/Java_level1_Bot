@@ -37,7 +37,7 @@ https://requests.readthedocs.io/en/master/
 
 ### Ejecución
 
-Para la ejecución del microservicio, se deberá ejecutar el siguiente comando:
+Para la ejecución del bot, se deberá ejecutar el siguiente comando:
 
 _Windows_
 ```console	
